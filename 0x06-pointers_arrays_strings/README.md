@@ -1,1 +1,1 @@
-My first pointer and array
+My pointer and array
